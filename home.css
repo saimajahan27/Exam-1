@@ -49,7 +49,7 @@ body{
     gap: 0px;
     opacity: 0px;
     font-size: 50px;
-    color:ivory ;
+    color:rgb(220, 220, 156) ;
 }
 .banner-area-start-btnn-button{
     width: 338px;
@@ -82,21 +82,17 @@ body{
 
 /*About the Principal End */
 /*Want to change Start  */
-#from{
-    display: flex;
-    width: 1440px;
-    height: 927px;
-    top: 1574px;
-    background: #a1ddd0;
-    height: 667px;
+.from{
+    background-color: rgb(196, 237, 224);
 }
+ 
 .from-text{
     text-align: center;
 }
 .from-input input{
     width: 60%;
-    height: 73px;
-    margin-top: 10px;
+    height: 70px;
+    margin-top: 20px;
 }
 .from-button{
     width: 20%;
